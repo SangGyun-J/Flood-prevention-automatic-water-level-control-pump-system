@@ -1,15 +1,18 @@
-# 침수 피해를 방지하기 위한 범람방지 자동 수위조절 펌프 시스템
-## ▶ H/W : 박동민, ▶ S/W : 박동민, 장상균 
-## ▶ Web : 장상균, ▶ APP : 장상균 
+# IoT를 활용한 수위 조절 시스템
+## 🔴 H/W : 박동민
+## 🟢 Web, App, DB, SMS : 장상균
+## 🔵 S/W : 박동민, 장상균 🟣 3D Print : 박동민, 장상균
 ## 진행기간 : 2021-04-13 ~ 2021-11-30
 
 ### 사용기술
 ---
-+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> - 개발 언어
-+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> - 형상관리
-+ App Inventer - Application 제작
-+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> – Realtime Database
-+ Whois - SMS 서비스
++ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> - 개발 언어
++ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> - 형상관리
++ ![app icon](https://user-images.githubusercontent.com/58980007/146013473-85e258d5-2b7d-464c-8215-f642c8ae2b78.png) - Application 제작
++ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> – Realtime Database
++ ![whois icon](https://user-images.githubusercontent.com/58980007/146014071-7b971618-8429-474b-a706-a41e6e683fa5.png) - SMS 서비스
++ <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> - LCD 패널
++ <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/> - Fusion 360
 
 ### 설명
 ---
