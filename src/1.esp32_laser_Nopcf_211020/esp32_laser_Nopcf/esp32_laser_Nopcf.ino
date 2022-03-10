@@ -274,11 +274,11 @@ void loop() {
 //    Data 업로드 및 시각화하기 위한 코드 
 
 //    센서 없이 노말 펌프 사용할 때
-      Firebase.setFloat(firebaseData, "/database_test/Normal_pump", avg);
-//    Firebase.pushFloat(firebaseData, "/database_test/Normal_pump", avg);
+//      Firebase.setFloat(firebaseData, "/database_test/Normal_pump", avg);
+    Firebase.pushFloat(firebaseData, "/database_test/Under_pump", avg);
 
 //    레이저센서 및 오토펌프 사용할 때
-//    Firebase.pushFloat(firebaseData, "/database_test/Auto_pump", avg);
+    Firebase.pushFloat(firebaseData, "/database_test/Auto_pump", avg);
   
   //분산
 //  int var = (pow((laser1-avg),2) + pow((laser2-avg),2) + pow((laser3-avg),2) + pow((laser4-avg),2) + pow((laser5-avg),2))/5;
