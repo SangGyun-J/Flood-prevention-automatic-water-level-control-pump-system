@@ -65,7 +65,7 @@ int avg = 0; // 레이저센서값 평균 변수
 // 데이터베이스,와이파이 설정 
 #include <FirebaseESP8266.h>  //https://github.com/mobizt/Firebase-ESP8266
 #define FIREBASE_HOST "esp8266-sensor-readings-23fd0-default-rtdb.firebaseio.com"
-#define FIREBASE_Authorization_key "GzVRIYoR2qjjvtMmrpS2Z4Esl089LWlCxYxcQRFv"
+#define FIREBASE_Authorization_key ""
 FirebaseData firebaseData;
 FirebaseJson json;
 // 데이터베이스 ON/OFF 표시 auto, pump 변수
